@@ -1,5 +1,7 @@
 # 교통
 
+* [세부 정보 구글맵에 저장](https://www.google.com/maps/d/u/0/edit?hl=en&mid=19e2sLZ_bSgVcwddDDardQFDvEslABaUa&ll=34.667111006978075%2C135.45934427691873&z=17)
+* https://kepper.tistory.com/408
 
 ## 공항으로 오가는
 * [티켓구입방법](https://www.howto-osaka.com/kr/traffic/train/purchase.html)
