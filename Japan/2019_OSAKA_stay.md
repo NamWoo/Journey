@@ -2,6 +2,7 @@
 
 * HG Cozy Hotel No.63
 * [Japan, 〒556-0005 Osaka, Naniwa Ward, Nipponbashi, 4 Chome−3−13 ファサード南栄](https://www.google.com/maps/place/Japan,+%E3%80%92556-0005+Osaka,+Naniwa-ku,+Nipponbashi,+4-ch%C5%8Dme%E2%88%923,+%E3%83%95%E3%82%A1%E3%82%B5%E3%83%BC%E3%83%89%E5%8D%97%E6%A0%84/@34.6599275,135.5045685,17z/data=!3m1!4b1!4m5!3m4!1s0x6000e75d5301b8a1:0xf6b263add8295bc7!8m2!3d34.6599231!4d135.5067625)
+* 금액 28220
 
 | info1 | info2 | etc |
 |:---:|:---:|:---:|
