@@ -3,6 +3,15 @@
 * HG Cozy Hotel No.63
 * [Japan, 〒556-0005 Osaka, Naniwa Ward, Nipponbashi, 4 Chome−3−13 ファサード南栄](https://www.google.com/maps/place/Japan,+%E3%80%92556-0005+Osaka,+Naniwa-ku,+Nipponbashi,+4-ch%C5%8Dme%E2%88%923,+%E3%83%95%E3%82%A1%E3%82%B5%E3%83%BC%E3%83%89%E5%8D%97%E6%A0%84/@34.6599275,135.5045685,17z/data=!3m1!4b1!4m5!3m4!1s0x6000e75d5301b8a1:0xf6b263add8295bc7!8m2!3d34.6599231!4d135.5067625)
 * 금액 28220
+* 예약 후 메일 확인 꼭 해야함
+* 메일에 센터 주소 나와있고 거기가서 키 받거나 
+* 미리 메일 보내 키 메일함에 받겠다고 얘기해야 함
+
+센터 주소
+
+* Japan, 〒542-0076 Osaka, 中央区Chuo Ward, Nanba, 4 Chome−4−1 ヒューリックなんばビル8階
+* https://osaka-info.jp/en/page/shin-travel-luggage-storage-namba
+
 
 | info1 | info2 | etc |
 |:---:|:---:|:---:|
